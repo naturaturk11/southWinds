@@ -1,6 +1,5 @@
 public class Food {
 
-    public static void main(String[] args) {
 
 
 
@@ -10,4 +9,4 @@ public class Food {
 
         //added some complains
     }
-}
+
